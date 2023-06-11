@@ -1,2 +1,2 @@
-# pratica-aleatoria
- 
+# Prática de exercícios aleatórios
+ > Em andamento...
